@@ -55,10 +55,22 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="Controls\DefaultButton.cs" />
+    <Compile Include="Controls\LaunchApplicationBtn.cs" />
+    <Compile Include="Controls\LaunchApplicationButton.xaml.cs">
+      <DependentUpon>LaunchApplicationButton.xaml</DependentUpon>
+    </Compile>
     <Compile Include="Controls\QuickLaunchAppPanel.xaml.cs">
       <DependentUpon>QuickLaunchAppPanel.xaml</DependentUpon>
     </Compile>
+    <Compile Include="Core\UserApplication.cs" />
+    <Compile Include="Core\UserApplicationsManager.cs" />
+    <Compile Include="Utils\GridPosition.cs" />
     <Compile Include="WindowBlur.cs" />
+    <Page Include="Controls\LaunchApplicationButton.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="Controls\QuickLaunchAppPanel.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>

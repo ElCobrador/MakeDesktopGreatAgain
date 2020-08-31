@@ -97,15 +97,5 @@ namespace MakeDesktopGreatAgain
         {
             this.DragMove();
         }
-
-        private void Button_Click(object sender, RoutedEventArgs e)
-        {
-            Close_App();
-        }
-
-        private static void Close_App()
-        {
-            System.Windows.Application.Current.Shutdown();
-        }
     }
 }

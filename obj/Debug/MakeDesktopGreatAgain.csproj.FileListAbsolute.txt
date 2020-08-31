@@ -16,3 +16,5 @@ C:\Users\Barbe Rousse\source\repos\MakeDesktopGreatAgain\MakeDesktopGreatAgain\o
 C:\Users\Barbe Rousse\source\repos\MakeDesktopGreatAgain\MakeDesktopGreatAgain\obj\Debug\Controls\QuickLaunchAppPanel.g.cs
 C:\Users\Barbe Rousse\source\repos\MakeDesktopGreatAgain\MakeDesktopGreatAgain\obj\Debug\Controls\QuickLaunchAppPanel.baml
 C:\Users\Barbe Rousse\source\repos\MakeDesktopGreatAgain\MakeDesktopGreatAgain\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Barbe Rousse\source\repos\MakeDesktopGreatAgain\MakeDesktopGreatAgain\obj\Debug\Controls\LaunchApplicationButton.g.cs
+C:\Users\Barbe Rousse\source\repos\MakeDesktopGreatAgain\MakeDesktopGreatAgain\obj\Debug\Controls\LaunchApplicationButton.baml
